@@ -1,6 +1,6 @@
 ### Hi World I'm Fathia👋
 
-<img align="right" alt="gif" scr="
+<img align="right" alt="gif" scr="https://github.com/fathiahue/fathiahue/blob/main/Animated%20GIF-original%20(2).mp4
 
 Here are some ideas to get you started:
 
