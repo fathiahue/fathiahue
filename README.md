@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="VisualStudioCode"  src="https://github.com/fathiahue/fathiahue/blob/main/vsc3.png"/>
+<img align="left" alt="VisualStudioCode"  src=""/>
 <img align="left" alt="HTML5"  src="https://github.com/fathiahue/fathiahue/blob/main/html51.png"/>
 <img align="left" alt="PHP" widht="5px" src="https://github.com/fathiahue/fathiahue/blob/main/php.png"/>
 <img align="left" alt="GIT" widht="5px" src="https://github.com/fathiahue/fathiahue/blob/main/git.png"/>
-<img align="left" alt="Github" widht="5px" src="https://github.com/fathiahue/fathiahue/blob/main/github.png"/>
+<img align="left" alt="Github"  src="https://github.com/fathiahue/fathiahue/blob/main/github1.png"/>
 <img align="left" alt="Symphony" widht="5px" src="https://github.com/fathiahue/fathiahue/blob/main/symphony.png"/>
 <img align="left" alt="Terminal" widht="5px" src="https://github.com/fathiahue/fathiahue/blob/main/terminal.png"/>
 
