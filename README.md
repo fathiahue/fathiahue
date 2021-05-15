@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about 
 - 📫 How to reach me: fatgt@hotmail.fr
-- <img align="left" alt="VisualStudioCode" widht="26px" src="https://github.com/fathiahue/fathiahue/blob/main/vsc.png" widht="26px"/>
+<img align="left" alt="VisualStudioCode" widht="26px" src="https://github.com/fathiahue/fathiahue/blob/main/vsc.png" widht="16px"/>
 
