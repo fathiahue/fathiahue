@@ -8,14 +8,18 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning PHP (symphony)
 - 🌱 Language I learned HTML5 , CSS3, VSC .
 - 👯 I’m looking to collaborate on sur divers projects.
-- 
 - 🤔 I’m looking for help with perfected me
 
 - 💬 Ask me about 
 - 📫 How to reach me: fatgt@hotmail.fr
+ </br>
+</br>
 
 ### Talk with me, I am kinda awesome:
-<img
+<img align="left" alt=" fathia Soussi" src="https://github.com/fathiahue/fathiahue/blob/main/linkedin.png"/>
+</br>
+</br>
+
 
 ### Languages and Tools:
 
