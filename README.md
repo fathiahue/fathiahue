@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: fatgt@hotmail.fr
 
 ### Languages and Tools:
-[<img align="left" alt="VisualStudioCode" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/vsc2.png"/>]
+
+<img align="left" alt="VisualStudioCode" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/vsc2.png"/>
 
