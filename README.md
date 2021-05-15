@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <img align="left" alt="PHP" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/php.png"/>
 <img align="left" alt="GIT" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/git.png"/>
 <img align="left" alt="Github" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/github.png"/>
-<img align="left" alt="Symphony" widht="10px src="
+<img align="left" alt="Symphony" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/symphony.png"/>
 
 
