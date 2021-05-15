@@ -32,10 +32,11 @@
 <img align="left" alt="Symphony" src="https://github.com/fathiahue/fathiahue/blob/main/symphony2.png"/>
 <img align="left" alt="Terminal" src="https://github.com/fathiahue/fathiahue/blob/main/terminal1.png"/>
 <img align="left" alt="SQL" src="https://github.com/fathiahue/fathiahue/blob/main/sql1.png"/>
-
+</br>
 </br>
 </br>
 ---
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
