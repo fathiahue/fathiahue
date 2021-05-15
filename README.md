@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  mon Portfolio
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning PHP (symphony)
 - 🌱 Language I learned HTML5 , CSS3, VSC .
 - 👯 I’m looking to collaborate on sur divers projects.
 - 
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5 CSS3" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/htmlcss.png"/>
 <img align="left" alt="PHP" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/php.png"/>
 <img align="left" alt="GIT" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/git.png"/>
-<img align="left" alt="Github" widht="10px" src="
+<img align="left" alt="Github" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/github.png"/>
+<img align="left" alt="Symphony" widht="10px src="
 
 
