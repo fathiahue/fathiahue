@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about 
 - 📫 How to reach me: fatgt@hotmail.fr
-<img align="left" alt="VisualStudioCode" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/vsc2.png"/>
+
+### Languages and Tools:
+[<img align="left" alt="VisualStudioCode" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/vsc2.png"/>]
 
