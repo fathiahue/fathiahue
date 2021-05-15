@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about 
 - 📫 How to reach me: fatgt@hotmail.fr
 
+### Talk with me, I am kinda awesome:
+<img
+
 ### Languages and Tools:
 
 <img align="left" alt="VisualStudioCode" src="https://github.com/fathiahue/fathiahue/blob/main/vsc1.png"/>
