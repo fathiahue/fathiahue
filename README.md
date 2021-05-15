@@ -5,12 +5,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  mon Portfolio
-- 🌱 I’m currently learning PHP (symphony)
+- 🌱 I’m currently learning on my first project(solo)
 - 🌱 Language I learned HTML5 , CSS3, VSC .
-- 👯 I’m looking to collaborate on sur divers projects.
+- 👯 I’m looking to collaborate on a divers projects.
 - 🤔 I’m looking for help with perfected me
 
-- 💬 Ask me about 
+- 💬 Ask me about ... Anything
 - 📫 How to reach me: fatgt@hotmail.fr
  </br>
 </br>
