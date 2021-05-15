@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="VisualStudioCode"  src=""/>
 <img align="left" alt="HTML5"  src="https://github.com/fathiahue/fathiahue/blob/main/html51.png"/>
+<img align="left" alt="CSS3" src="https://github.com/fathiahue/fathiahue/blob/main/css1.png"/>
 <img align="left" alt="PHP" widht="5px" src="https://github.com/fathiahue/fathiahue/blob/main/php.png"/>
 <img align="left" alt="GIT" widht="5px" src="https://github.com/fathiahue/fathiahue/blob/main/git.png"/>
 <img align="left" alt="Github"  src="https://github.com/fathiahue/fathiahue/blob/main/github1.png"/>
