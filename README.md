@@ -33,6 +33,24 @@
 <img align="left" alt="Terminal" src="https://github.com/fathiahue/fathiahue/blob/main/terminal1.png"/>
 <img align="left" alt="SQL" src="https://github.com/fathiahue/fathiahue/blob/main/sql1.png"/>
 
+</br>
+</br>
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+<img align="left" alt="Les Stats GitHub de Fathia" src="https://github-readme-stats.vercel.app/api?username=fathiahue&show_icons=true&hide_border=true"/>
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+   
+   <img align="left" alt="Fathia GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiahue" />
+
+</details>
+
 <br />
 <br />
 
