@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 <img align="left" alt="PHP" src="https://github.com/fathiahue/fathiahue/blob/main/php1.png"/>
 <img align="left" alt="Github"  src="https://github.com/fathiahue/fathiahue/blob/main/github1.png"/>
 <img align="left" alt="GIT"  src="https://github.com/fathiahue/fathiahue/blob/main/git.png"/>
-
-<img align="left" alt="Symphony" widht="5px" src="https://github.com/fathiahue/fathiahue/blob/main/symphony.png"/>
-<img align="left" alt="Terminal" widht="5px" src="https://github.com/fathiahue/fathiahue/blob/main/terminal.png"/>
+<img align="left" alt="Symphony" widht="5px" src=""/>
+<img align="left" alt="Terminal" widht="5px" src="https://github.com/fathiahue/fathiahue/blob/main/terminal1.png"/>
 
 
