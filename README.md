@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img align="left" alt="VisualStudioCode" widht="5px" src="https://github.com/fathiahue/fathiahue/blob/main/vsc3.png"/>
-<img align="left" alt="HTML5 CSS3" widht="10px" src
+<img align="left" alt="HTML5 CSS3" widht="10px" src="https://github.com/fathiahue/fathiahue/blob/main/htmlcss.png"/>
 
