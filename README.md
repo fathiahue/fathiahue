@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 </br>
 
 ### Talk with me, I am kinda awesome:
-<img align="left" alt=" fathia Soussi" src="https://github.com/fathiahue/fathiahue/blob/main/linkedin.png"/>
+[<img align="left" alt=" fathia Soussi | LinkedIn" src="https://github.com/fathiahue/fathiahue/blob/main/linkedin.png"/>][linkedin]
 </br>
 </br>
 
@@ -32,5 +32,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Symphony" src="https://github.com/fathiahue/fathiahue/blob/main/symphony2.png"/>
 <img align="left" alt="Terminal" src="https://github.com/fathiahue/fathiahue/blob/main/terminal1.png"/>
 <img align="left" alt="SQL" src="https://github.com/fathiahue/fathiahue/blob/main/sql1.png"/>
+
+<br />
+<br />
+
+[linkedin]:https://www.linkedin.com/in/fathia-soussi-547952210/
+
 
 
