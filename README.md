@@ -2,7 +2,7 @@
 
 <img align="right" alt="gif" src="https://github.com/fathiahue/fathiahue/blob/main/gif1.gif" widht="500" height="320" />
 
-   I'm a  Developper Junior and this my story
+   I'm a  Futur Developper Junior 
    </br>
 - 🔭 I’m currently working on  mon Portfolio
 - 🌱 I’m currently learning on my first project(solo)
