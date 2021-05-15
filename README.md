@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 <img align="left" alt="GIT" src="https://github.com/fathiahue/fathiahue/blob/main/git.png"/>
 <img align="left" alt="Symphony" src="https://github.com/fathiahue/fathiahue/blob/main/symphony2.png"/>
 <img align="left" alt="Terminal" src="https://github.com/fathiahue/fathiahue/blob/main/terminal1.png"/>
-<img align="left" alt="SQL" src="https://github.com/fathiahue/fathiahue/blob/main/terminal1.png"/>
+<img align="left" alt="SQL" src="https://github.com/fathiahue/fathiahue/blob/main/sql1.png"/>
 
 
